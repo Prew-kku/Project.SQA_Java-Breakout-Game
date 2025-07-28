@@ -24,7 +24,7 @@ public class Ball extends Sprite {
 
     private void loadImage() {
 
-        var ii = new ImageIcon("src/resources/ball.png");
+    	var ii = new ImageIcon("resources/ball.png");
         image = ii.getImage();
     }
 
