@@ -12,7 +12,8 @@ public interface Commons {
     int INIT_BALL_Y = 355;    
     int PERIOD = 1;
     
-    
+    // BALL_SPEED = ความเร็วลูกบอล
     int BALL_SPEED = 2;
+    // Paddle_SPEED = ความเร็วแป้น
     int Paddle_SPEED = 3;
 }
